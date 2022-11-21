@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<phonebook>
+    
+<men>
+	<fio>Иванов</fio>
+	<name>Иван</name>
+	<sname>Иванович</sname>
+	<tel>811111111</tel>
+</men>
+<men>
+	<fio>Сидоров</fio>
+	<name>Сидор</name>
+	<sname>Сидорович</sname>
+	<tel>83333333</tel>
+</men>
+<men>
+	<fio>qw</fio>
+	<name>as</name>
+	<sname>zx</sname>
+	<tel>12345678</tel>
+</men>
+</phonebook>
